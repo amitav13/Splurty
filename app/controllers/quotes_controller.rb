@@ -5,9 +5,9 @@ class QuotesController < ApplicationController
 	def create
 		@quote = Quote.create(quote_params)
 		if @quote.invalid?
-			flash[:error] = '<strong>Could not save.</strong> The data you entered is invalid.'
-		redirect_to root_path
+			flash[:error] = '<strong>Could not save.</strong> The data you entered is invalid.'		
 		end
+		redirect_to root_path	
 	end
 	def about
 	end
