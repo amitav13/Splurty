@@ -1,28 +1,7 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<p>
+    Splurty went live on the 28th of June, 2014 as part of a <a target="_blank" href="http://www.firehoseweekend.com/">Firehose Weekend</a>. Born of the need to bestow the best of my 20+ years of student experiences unto the next generation of green students, Splurty also served as my playground to re-learn web development after college.   
+  </p>
+  <br />
+  <p>
+    The site is built on the <a target="_blank" href="http://rubyonrails.org/">Ruby on Rails</a> framework with a postgres database. <a target="_blank" href="http://getbootstrap.com/">Bootstrap 3</a> was used to make it look slick. Big shoutout to <a target="_blank" href="http://github.com/MarcoMorawec">Marco</a> &amp; <a target="_blank" href="http://github.com/KenMazaika">Ken</a> for being awesome and guiding me through this. I'd highly recommended their <a target="_blank" href="http://www.firehoseweekend.com/">courses</a> if you're looking to get kickstarted on web development.     
+  </p>
