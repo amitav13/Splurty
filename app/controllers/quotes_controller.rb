@@ -1,6 +1,6 @@
 class QuotesController < ApplicationController
 	def index
-		@quote = Quote.order("RANDOM()").first
+		@quote = Quote.where(:approved => true).order("RANDOM()").first
 	end
 	def create
 		@quote = Quote.create(quote_params)
