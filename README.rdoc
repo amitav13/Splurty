@@ -1,3 +1,5 @@
+http://studentsplurty.herokuapp.com
+
 Splurty went live on the 28th of June, 2014 as part of a Firehose Weekend. Born of the need to bestow the best of my 20+ years of student experiences unto the next generation of green students, Splurty also served as my playground to re-learn web development after college.
 
 
